@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Decisions&DisruptionsAI", "Decisions&DisruptionsAI\Decisions&DisruptionsAI.pyproj", "{C5687E40-3A17-48AC-9E00-B241BA62708B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5687E40-3A17-48AC-9E00-B241BA62708B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5687E40-3A17-48AC-9E00-B241BA62708B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1721214B-DABD-4C43-96A5-CB233BB274EA}
+	EndGlobalSection
+EndGlobal
